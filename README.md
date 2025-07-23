@@ -2,17 +2,18 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Exploit Vulnerabilities using OWASP and WEBGOAT</b>
+  - [Learn about common web application vulnerabilities](https://github.com/Boluwatife-design/OWASP-WEBGOAT-Project)
  
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>Microsoft 365 Fundamentals (MS-900)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Introduction to Cybersecurity (CISCO)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft 365 Fundamentals </b>
+  - [MS-900](https://drive.google.com/file/d/1nnRt9dyumfH0JL948M2i8IVNe7SKF2tx/view?usp=sharing)
  
-- <b>Microsoft Security Essentaials </b>
+- <b>Microsoft Certified Security, Compliance and Identity Funamentals </b>
+  - [SC-900](https://docs.google.com/document/d/1tDAU2uJx-5Yixx18_eUnQz0_8vgRK-LR8_vggpQ45iM/edit?usp=sharing )(https://drive.google.com/file/d/1QtYauBICKI-h6zOsbep4z4etQ--V0RYi/view?usp=sharing)
+
+  - <b>Microsoft Security Essentials </b>
   - [Praciting DS & Algos in Python](https://www.linkedin.com/learning/certificates/59514b8fe30e13673efac8aa8342467e31b5cc430fcc3d15a89c28a608787482?trk=share_certificate)
   
 
@@ -32,8 +33,6 @@
 [youtube]: https://www.youtube.com/@Temtechie1
 [linkedin]: https://www.linkedin.com/in/temitopeolowoniyi/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
