@@ -4,6 +4,10 @@
 
 - <b>Exploit Vulnerabilities using OWASP and WEBGOAT</b>
   - [Learn about common web application vulnerabilities](https://github.com/Boluwatife-design/OWASP-WEBGOAT-Project)
+  - [Reconnaissance with NMAP & WIRESHARK](https://github.com/Boluwatife-design/-Reconnaissance-with-NMAP-WIRESHARK)
+  - [Ethical Hacker Capstone Project](https://github.com/Boluwatife-design/Ethical-Hacker-Capstone-Project)
+  - [Nikto Web Server Vulnerability Scanner](https://github.com/Boluwatife-design/NIKTO---WEB-SERVER-VULNERABILITY-SCANNER)
+  - [Web Site Cloning](https://github.com/Boluwatife-design/website-cloning-SETOOLKIT-SMB-Vulnerability-Scanning)
  
 <h2>👨‍💻 Certifications:</h2>
 
