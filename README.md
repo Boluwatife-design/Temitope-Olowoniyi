@@ -8,15 +8,15 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Microsoft 365 Fundamentals </b>
-  - [MS-900](https://drive.google.com/file/d/1nnRt9dyumfH0JL948M2i8IVNe7SKF2tx/view?usp=sharing)
+  - [MS-900](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?pke=1&action=Result&id=KILktZQyyU++xNbadkdg5A==)
  
 - <b>Microsoft Certified Security, Compliance and Identity Funamentals </b>
-  - [SC-900]()
+  - [SC-900](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?pke=1&action=Result&id=GYun7tiGpZkF7/9KxEDN7A==)
 
-  - <b>Google Cybersecurity </b>
+- <b>Google Cybersecurity </b>
   - [Cousera](https://www.coursera.org/account/accomplishments/specialization/ALYSY1X9W4O8)
- 
-  - - <b>Ethical Hacker </b>
+
+- <b>Ethical Hacker </b>
   - [Cisco Academy](https://www.netacad.com/certificates/?issuanceId=eb8a1a25-2dfe-4fa6-97ab-da8e665875e2)
   
 
