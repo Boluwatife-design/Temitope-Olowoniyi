@@ -22,7 +22,11 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Exploring Microsoft 365 Tenant](https://youtu.be/Z1DzvQEWRhs?si=fPDodYpLw9q6FseY)
+- [How to remove/add a Domain in M365](https://youtu.be/J19Rk1AMlq8?si=THuJQuhS-qHx61qB)
+- [Microsoft 365 Shared Mailbox explained](https://youtu.be/Sv_UZI_N6fo?si=j0En6T0H38OWbd6V)
+- [How to enable/disable SSPR in an organization](https://youtu.be/GJYj-iBZXyg?si=VMoq0r2Ll-rdF2z4)
+- [SharePoint Basics](https://youtu.be/6aLljBCREyc?si=cac_BQ3u9lCoe9x2)
   
 
 <h2> 🤳 Connect with me:</h2>
