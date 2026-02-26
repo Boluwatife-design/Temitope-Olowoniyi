@@ -11,10 +11,13 @@
   - [MS-900](https://drive.google.com/file/d/1nnRt9dyumfH0JL948M2i8IVNe7SKF2tx/view?usp=sharing)
  
 - <b>Microsoft Certified Security, Compliance and Identity Funamentals </b>
-  - [SC-900](https://docs.google.com/document/d/1tDAU2uJx-5Yixx18_eUnQz0_8vgRK-LR8_vggpQ45iM/edit?usp=sharing )(https://drive.google.com/file/d/1QtYauBICKI-h6zOsbep4z4etQ--V0RYi/view?usp=sharing)
+  - [SC-900]()
 
-  - <b>Microsoft Security Essentials </b>
-  - [Praciting DS & Algos in Python](https://www.linkedin.com/learning/certificates/59514b8fe30e13673efac8aa8342467e31b5cc430fcc3d15a89c28a608787482?trk=share_certificate)
+  - <b>Google Cybersecurity </b>
+  - [Cousera](https://www.coursera.org/account/accomplishments/specialization/ALYSY1X9W4O8)
+ 
+  - - <b>Ethical Hacker </b>
+  - [Cisco Academy](https://www.netacad.com/certificates/?issuanceId=eb8a1a25-2dfe-4fa6-97ab-da8e665875e2)
   
 
 <h2>📺 Popular YouTube Videos</h2>
